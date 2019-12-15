@@ -1,0 +1,23 @@
+Regression Algorithms:-
+	Random Forest
+	Linear
+	Polynomial (Degree = 2)
+	Decision Tree
+	Ridge
+	Lasso
+	ElasticNet
+
+Supervised Classification Algorithms:-
+	Support Vector Classifier (Linear Kernel)
+	SVC after PCA
+	K Nearest Neighbour (KNN)
+	Random Forest Classifier
+	Decision Tree Classifier
+	Support Vector Classifier (RBF Kernel)
+	Naive Bayes (GaussianNB)
+	Logistic Regression
+	
+Logistic Regression ( Classification Algorithm )
+
+Unsupervised Classification (Clustering):-
+	K Means Clustering
